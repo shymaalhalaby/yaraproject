@@ -1,0 +1,3 @@
+[submodule "yaraproject"]
+	path = yaraproject
+	url = https://github.com/shymaalhalaby/yaraproject.git

@@ -130,6 +130,10 @@ Route::group([
         Route::get('/getlunch', [lunchController::class, 'index']);
         Route::get('/getDinner', [DinnerController::class, 'index']);
 
+
+
+        Route::get('/yara7mara', [DinnerController::class, 'index']);
+
     });
 
 });
