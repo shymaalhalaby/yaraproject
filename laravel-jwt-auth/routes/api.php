@@ -134,6 +134,8 @@ Route::group([
 
         Route::get('/yara7mara', [DinnerController::class, 'index']);
 
+        Route::get('/shymaa5rye', [DinnerController::class, 'index']);
+
     });
 
 });
